@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReCall<br>🤝 I’m looking for help with getting an Internship<br>🌱 I’m currently learning SQL to expand my knowledge of web<br>⚡ Fun fact I really enjoy helping people learn with what I know
+🔭 I’m currently working on RateMyUni<br>🤝 I’m looking for help with getting an Internship<br>🌱 I’m currently learning SQL to expand my knowledge of web<br>⚡ Fun fact I really enjoy helping people learn with what I know
 
 
 ## 🌐 Socials:
