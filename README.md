@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🔭 I’m currently working on [a Startup](link N/A)
+- 🔭 I’m currently working on [a Startup](Coming Soon)
 
 - 🌱 I’m currently learning **Back-end Development**
 
